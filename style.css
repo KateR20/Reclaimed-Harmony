@@ -330,13 +330,13 @@ nav {
 /* Make transformation gallery smaller */
 
 .transformations {
-    max-width: 850px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 60px 30px;
 }
 
 .transformation-card {
-    max-width: 750px;
+    max-width: 1100px;
     margin: 0 auto 45px;
 }
 
