@@ -962,3 +962,35 @@ nav {
         grid-template-columns: 1fr;
     }
 }
+
+/* Social Footer */
+.site-footer {
+  background: #7b2638;
+  color: white;
+  text-align: center;
+  padding: 24px 20px;
+  margin-top: 40px;
+}
+
+.site-footer p {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
